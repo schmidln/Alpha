@@ -92,7 +92,7 @@ SENDGRID_API_KEY=your-key
 
 ## Demo
 
-[Watch the demo video](https://youtube.com/shorts/ytMRI7Ui0uI)
+<a href="https://youtube.com/shorts/ytMRI7Ui0uI" target="_blank">Watch the demo video</a>
 
 ## Author
 
