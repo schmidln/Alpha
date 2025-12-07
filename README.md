@@ -4,7 +4,7 @@ An intelligent iOS personal assistant that integrates with WhatsApp, providing n
 
 ## Overview
 
-Alpha is a comprehensive AI assistant built with SwiftUI and Firebase, featuring both in-app chat and WhatsApp integration. Users can interact with their personal assistant through natural conversation to manage their daily tasks and stay organized.
+Alpha is a comprehensive AI assistant built with SwiftUI and Firebase, featuring both in-app chat and WhatsApp integration. Users can interact with their personal assistant through natural conversation to manage their daily tasks and stay organized. Please note only the SwiftUI code is included in this repo; my Node.js backend code is not included. If you'd like to have a peek at my backend, simply reach out at schmidln@bc.edu.
 
 ## Features
 
